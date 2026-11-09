@@ -1,0 +1,21 @@
+expense_tracker/
+├── index.php              # Redirects to the application login page
+├── pages/                 # Application pages and actions
+│   ├── about.php
+│   ├── add_expense.php
+│   ├── dashboard.php
+│   ├── delete_expense.php
+│   ├── edit_expense.php
+│   ├── index.php          # Login page
+│   ├── logout.php
+│   ├── register.php
+│   └── settings.php
+├── includes/              # Database configuration and shared functions
+├── assets/                # Images and other static assets
+├── database/              # SQL dump and CSV data
+├── docs/                  # Project documentation
+└── .vscode/               # VS Code configuration
+
+
+username:demo@expense.com
+password:demo123
